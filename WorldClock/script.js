@@ -17,7 +17,7 @@ function dispCurrentTime(){
 
 function getOptions(tz)
 {
-    let opt = { hourCycle:"h24", weekday: 'long', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12:false};
+    let opt = { hourCycle:"h24", weekday: 'long', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit'};
     switch(tz){
         case 'uk': 
             opt.timeZone = 'Europe/London';
