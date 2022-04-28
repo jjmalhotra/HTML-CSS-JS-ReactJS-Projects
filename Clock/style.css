@@ -1,0 +1,40 @@
+.heading {
+  margin: 1em 0 0.5em 0;
+  color: #343434;
+  font-weight: normal;
+  font-family: "Ultra", sans-serif;
+  font-size: 30px;
+  line-height: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 0 2px white, 0 3px #777;
+  text-align: center;
+}
+
+.format {
+  background-color: rgb(235, 229, 229);
+}
+
+mark {
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: #ffcf87;
+  padding: 3px 10px;
+}
+
+.mrgin {
+  margin-left: 68px;
+  width: 90%;
+}
+
+.clr {
+  color: crimson;
+  font-weight: bold;
+}
+
+.cp-text {
+  color: rgba(0, 0, 0, 0.7);
+  text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+  font-size: 12px;
+  text-align: center;
+}
